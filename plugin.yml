@@ -1,0 +1,7 @@
+name: MajCommand
+version: 1.0.0
+main: MajCommand\Main
+api: 3.0.0
+author: Julien
+description: Execute MajCommand
+website: Julien#1234
