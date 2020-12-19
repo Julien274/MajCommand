@@ -1,0 +1,2 @@
+# MajCommand
+Execute MajCommand
